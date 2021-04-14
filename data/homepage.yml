@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "mailto:stanbenjaminwiggers@gmail.com"
+    URL: "https://condescending-euler-0c11f7.netlify.app/#contact"
 
   socialLinks:
     - icon: "linkedin"
@@ -71,7 +71,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "My Resume"
-    URL: "#"
+    URL: "https://relaxed-euler-09a31d.netlify.app/"
 
   items:
     - title: "BI Specialist"
