@@ -50,6 +50,7 @@ title = "stan wiggers info"
 
 [params]
 
+colorPrimary = "#5bddeb"
   sections = ["showcase", "about", "education", "experience", "contact"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
