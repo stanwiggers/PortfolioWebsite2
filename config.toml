@@ -1,6 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
+title = "stan wiggers info"
 
 # Plugins
 [params.plugins]
