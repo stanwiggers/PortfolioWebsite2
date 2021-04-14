@@ -17,9 +17,9 @@ showcase:
     x: "img/showcase/showcase-mobile3.jpg"
 
   button:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "https://condescending-euler-0c11f7.netlify.app/#contact"
+    icon: "icon-profile-fill"
+    btnText: "My Resume"
+    URL: "https://relaxed-euler-09a31d.netlify.app/"
 
   socialLinks:
     - icon: "linkedin"
