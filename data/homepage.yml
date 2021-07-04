@@ -6,7 +6,7 @@ homepage:
 showcase:
   enable: true
   title: "Hello, I’m Stan."
-  subtitle: "Student and BI Specialist"
+  subtitle: "Graduated MSc Marketing Analytics student & data enthusiast"
   description: "Welcome to my website! On this website you can find some information about me, how you can contact me and you can look at my resume."
   image:
     alt: "Showcase keyboard and mouse image"
@@ -76,7 +76,7 @@ experience:
   items:
     - title: "BI Specialist"
       company: "bol.com"
-      duration: "Mar 2021 - Present"
+      duration: "Mar 2021 - May 2021"
 
     - title: "Digital Marketer"
       company: "Haverkamp"
