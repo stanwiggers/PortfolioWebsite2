@@ -99,7 +99,7 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+316 53121505"
+    number: "/"
   email:
     title: "Email"
     email: '<a href="mailto:stanbenjaminwiggers@gmail.com">stanbenjaminwiggers@gmail.com</a>'
