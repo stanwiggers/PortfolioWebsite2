@@ -33,7 +33,7 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    Hi there! My name is Stan Wiggers, I was born in 1995 and live in Deventer. I would describe myself as a calm go-getter who likes to look at things analytically.
+    Hi there! My name is Stan Wiggers, I was born in 1995 and live in Utrecht. I would describe myself as a calm go-getter who likes to look at things analytically.
     </p>
     <p class="lead">
     I am a sports enthusiast, I love hanging out with friends and every now and then I like to turn on my DJ Controller to mix music or turn on my PlayStation to play videogames.
@@ -74,6 +74,10 @@ experience:
     URL: "https://relaxed-euler-09a31d.netlify.app/"
 
   items:
+    - title: "Project Manager"
+      company: "bol.com"
+      duration: "Sep 2021 - Current" 
+  
     - title: "BI Specialist"
       company: "bol.com"
       duration: "Mar 2021 - May 2021"
@@ -81,10 +85,6 @@ experience:
     - title: "Digital Marketer"
       company: "Haverkamp"
       duration: "Mar 2017 - Jan 2018 & Oct 2019 - Feb 2021"
-
-    - title: "Content Specialist"
-      company: "bol.com"
-      duration: "Apr 2019 - Sep 2019"
 
 
 # contact
